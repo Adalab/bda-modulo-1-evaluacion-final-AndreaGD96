@@ -12,4 +12,6 @@ También se solicitaba definir una serie de métodos y probar que funcionasen:
 
 Para cada uno de ellos nos fueron indicados una serie de parámetros e indicaciones, y todos incluían un bucle for.
 
+Fui definiendo la clase y los métodos, y al final indiqué una sección de testing donde pruebo los métodos una vez ejecutados.
+
 Aparte venía un ejercicio de bonus acerca de clientes de la tienda que hicimos en el ejercicio primero, pero como no lo terminé de definir por completo no le dediqué tiempo.
